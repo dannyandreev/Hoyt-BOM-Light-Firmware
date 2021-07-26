@@ -2,7 +2,7 @@
 #include <Wire.h>
 #include "kxtj3-1057.h"
 
-#define R_LED_PIN PIN_PD6
+#define R_LED_PIN PIN_PD6  //petes so smart to figure out git- maybe not
 #define G_LED_PIN PIN_PB2
 #define B_LED_PIN PIN_PB1
 
